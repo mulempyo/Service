@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="start">서비스 START</string>
+    <string name="stop">서비스 STOP</string>
+    <string name="bind">서비스 BIND</string>
+    <string name="unbind">서비스 UNBIND</string>
+    <string name="service">서비스 함수 호출</string>
+</resources>
